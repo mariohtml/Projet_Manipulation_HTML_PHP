@@ -1,5 +1,5 @@
 	var jours;
-		jours = new Array(1); //jours=[];
+		jours = new Array(); //jours=[];
 		jours[0]= 'Lundi';
 		jours[1]= 'Mardi';
 		jours[2]= 'Mercredi';
